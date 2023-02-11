@@ -1,0 +1,5 @@
+# pg_uuid_next extension
+comment = 'functions to generate UUID v7 and v8'
+default_version = '1.0'
+module_pathname = '$libdir/pg_uuid_next'
+relocatable = true
